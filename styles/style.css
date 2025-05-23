@@ -209,13 +209,17 @@
     row-gap: 49.85px;
     flex-direction: column;
     padding-top: 10%;
-    padding-bottom: 131px;
+    padding-bottom: 12%;
     align-items: center;
 }
 
 #how-help .cards{
     display: grid;
     row-gap: 20px;
+}
+
+#how-help .cards img{
+    padding: 5%;
 }
 
 #how-help .cards-upper {
@@ -313,8 +317,8 @@
     font-weight: 400;
     font-size: clamp(2rem, 6vw, 70px);
     line-height: 100%;
-    margin-bottom: 36px;
-    margin-top: 105px;
+    margin-bottom: 10%;
+    margin-top: 10%;
 }
 
 #map-section .top{
@@ -495,7 +499,7 @@ footer .wrapper{
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    padding: 4%;
+    padding: 10%;
     row-gap: 23.41px;
 }
 
